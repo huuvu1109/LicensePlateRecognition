@@ -4,5 +4,6 @@
 
 file weight yolo: https://drive.google.com/open?id=1-Y5dVsJbbqYFCher_IMImngOXdPC78bK
 
-Request:  Darknet 
+Request:  
+          Darknet 
           Tesseract OCR
